@@ -12,11 +12,11 @@ Studying *'Computer Science'* and *'Computer Graphics and Games'* at **Victoria 
 ### 💻 Tech Stack  
 
 **Languages:**  
-![Java 17](https://img.shields.io/badge/Java_17-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![C# 10.0](https://img.shields.io/badge/C%23_10.0-%23239120.svg?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_10.0-%23239120.svg?logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
 ![GDScript](https://img.shields.io/badge/GDScript-%23478CBF.svg?logo=godot-engine&logoColor=white)
-![UE Blueprints](https://img.shields.io/badge/Unreal_Blueprints-%230E1128.svg?logo=unreal-engine&logoColor=white)
+![Blueprints](https://img.shields.io/badge/Unreal_Blueprints-%230E1128.svg?logo=unreal-engine&logoColor=white)
 
 **Tools and Libraries:**  
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
