@@ -5,6 +5,7 @@ Studying *'Computer Science'* and *'Computer Graphics and Games'* at **Victoria 
 ### 🌐 Socials  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/berrydevinee?igsh=MTh1aHloNmg5cTdoZQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnathan-devine-bab776389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?logo=itchdotio&logoColor=white)](https://extrastrawberryfrog.itch.io/)
 
 ---
 
