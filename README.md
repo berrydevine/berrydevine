@@ -1,6 +1,6 @@
 ## Kia ora, I'm Johno Devine 👋  
 **Aspiring Game Programmer and Designer**  
-Studying *Computer Science* and *Computer Graphics and Games* at **Victoria University of Wellington**
+Studying *'Computer Science'* and *'Computer Graphics and Games'* at **Victoria University of Wellington**
 
 ### 🌐 Socials  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/berrydevinee?igsh=MTh1aHloNmg5cTdoZQ==)
